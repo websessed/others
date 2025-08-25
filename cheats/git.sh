@@ -19,6 +19,16 @@ for repo in repo1 repo2 repo3 repo4 repo5; do
 done
 
 
+#commit multiple files in a folder at once
+for file in *; do
+  if [ -f "$file" ]; then
+    git add "$file"
+    git commit -m "Stylus script for $file"
+  fi
+done 
+
+git push
+
 
 #add a remote 
 git remote add origin https://github.com/user/repo.git
