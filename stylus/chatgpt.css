@@ -1,0 +1,27 @@
+
+/* ChatGPT stylus script */
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+    
+/* Hide "Search Chats", "Library", "Sora", and "GPTs" in ChatGPT sidebar */
+nav a[href*="/library"],
+nav a[href*="/sora"],
+nav a[href*="/gpts"] {
+  display: none !important;
+}
+
+/* Hide "New Chat" button */
+a[href="/"] {
+    display: none !important;
+}
+
+/* Hide "Library" */
+a[href^="/library"] {
+    display: none !important;
+}
+
