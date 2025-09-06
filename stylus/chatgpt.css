@@ -25,3 +25,7 @@ a[href^="/library"] {
     display: none !important;
 }
 
+/* Remove "New Project" button */
+#snorlax-heading {
+    display: none;
+}
