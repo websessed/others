@@ -33,8 +33,15 @@ git push
 #add a remote 
 git remote add origin https://github.com/user/repo.git
 
-#pull latest changes 
+#update new remote
+git remote set-url origin git@github.com/user/new-repo.git
+
+
+#pull latest changes from remote 
 git pull 
+
+#push changes to remote 
+git push 
 
 #force push (be careful)
 git push origin branch-name --force 
@@ -49,6 +56,12 @@ git stash list
 
 #apply latest stash 
 git stash pop 
+
+#remove files & stage deletions 
+git rm file.ext 
+
+#unstage a file 
+git reset file.ext 
 
 
 #amend last commit message (without changing content)
@@ -67,6 +80,9 @@ git diff --name-only HEAD~1
 
 #create + switch branch
 git checkout -b feature-x 
+
+#list branches 
+git branches
 
 #switch branches 
 git switch main 
@@ -99,3 +115,9 @@ git diff
 #show what's staged (will be committed)
 git diff --cached 
 
+
+#show remote URLS 
+git remote -v 
+
+#show the current state of your current working dir 
+git status 
