@@ -1,0 +1,73 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 9.9,
+    "window.zoomLevel": 1,
+    "files.autoSave": "afterDelay",
+    "zenMode.fullScreen": false,
+    "json.schemas": [],
+    "window.commandCenter": false,
+    "solidity.telemetry": true,
+    "[solidity]": {},
+    "terminal.integrated.fontSize": 11,
+    "terminal.integrated.fontFamily": "Consolas",
+    "leetcode.workspaceFolder": "C:\\Users\\Maxwell Easter\\.leetcode",
+    "leetcode.defaultLanguage": "javascript",
+    "apc.parts.font.family": {},
+    "customizeUI.fontSizeMap": {
+        "13px": "11px",
+        "monospace": "12px"
+    },
+    "customizeUI.font.regular": "Helvetica Nueve",
+    "customizeUI.stylesheet": {},
+    "editor.fontLigatures": true,
+    "editor.tokenColorCustomizations": {
+    "textMateRules": [
+    {
+      "scope": [
+        "comment",
+        "comment.line",
+        "comment.block.documentation"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+          }
+        }
+      ]
+    },
+    "editor.codeActionsOnSave": {},
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "editor.stickyScroll.enabled": false,
+    "python.defaultInterpreterPath": "C:\\Python312\\python.exe",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.fontLigatures.enabled": true,
+   
+    "C_Cpp.copilotHover": "disabled",
+    "editor.fontWeight": "1",
+    "vscode_custom_css.policy": true,
+    "vscode_custom_css.imports": [
+
+      "file:///C:/Users/Maxwell%20Easter/OneDrive/Desktop/Bin/Github/all/config/custom.css"
+    ],
+    "python.createEnvironment.trigger": "off",
+    "workbench.settings.applyToAllProfiles": [
+    ],
+    "vscode-neovim.neovimExecutablePaths.windows": "C:\\Program Files\\Neovim\\bin\\nvim.exe",
+    "extensions.experimental.affinity": {
+      "asvetliakov.vscode-neovim": 1
+    },
+    "workbench.colorTheme": "Best Themes - Sweet Dark Italic",
+    "editor.overtypeCursorStyle": "line",
+    "editor.cursorBlinking": "smooth",
+    "markdown.preview.fontSize": 9,
+    "leetcode.hint.configWebviewMarkdown": false,
+    "markdown.preview.fontFamily": "'Verdana'",
+    "markdown-preview-enhanced.previewTheme": "atom-dark.css",
+    "editor.fontFamily": "'Courier New'",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "workbench.statusBar.visible": false,
+    "workbench.startupEditor": "none"
+    
+}
+

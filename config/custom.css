@@ -1,0 +1,40 @@
+
+/* Menu bar font */
+.menubar-menu-button,
+.monaco-menu .monaco-action-bar .action-label {
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 11px !important;
+}
+
+/* File Explorer filenames */
+.monaco-tree .monaco-tree-row .content .label-name,
+.monaco-list .monaco-list-row .resourceGroup .name {
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 11px !important;
+}
+
+.explorer-viewlet .monaco-tree,
+.explorer-viewlet .monaco-list {
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 11px !important;
+}
+
+/* Editor tab titles */
+.tabs-container .tab .tab-label {
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 8px !important;
+    font-style: oblique !important;
+}
+
+/* Target the composite bar container */
+.part.panel > .composite-bar {
+    font-family: 'Courier New', monospace !important;
+    font-size: 12px !important;
+}
+
+/* Target each tab item in the composite bar */
+.part.panel > .composite-bar > .composite-bar-item {
+    font-family: 'Courier New', monospace !important;
+    font-size: 10px !important;
+}
+
