@@ -10,7 +10,7 @@ settings.json </mark> & custom css script
 - **stylus** — stylus scripts I use accross multiple websites
 
 
-<hr style="border: none; height: 1px; background: #ccc; margin: 2em 0;">
+#
 
 
 ##### **DSA**
