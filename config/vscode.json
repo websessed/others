@@ -1,6 +1,5 @@
 {
-    "workbench.iconTheme": "material-icon-theme",
-    "editor.minimap.enabled": false,
+  "editor.minimap.enabled": false,
     "editor.fontSize": 9.9,
     "window.zoomLevel": 1,
     "files.autoSave": "afterDelay",
@@ -48,7 +47,7 @@
     "vscode_custom_css.policy": true,
     "vscode_custom_css.imports": [
 
-      "file:///C:/Users/Maxwell%20Easter/OneDrive/Desktop/Bin/Github/all/config/custom.css"
+      "file:///C:/Users/Maxwell%20Easter/OneDrive/Desktop/Bin/Github/others/config/custom.css"
     ],
     "python.createEnvironment.trigger": "off",
     "workbench.settings.applyToAllProfiles": [
@@ -62,18 +61,22 @@
     "editor.cursorBlinking": "smooth",
     "markdown.preview.fontSize": 9,
     "leetcode.hint.configWebviewMarkdown": false,
-    "markdown.preview.fontFamily": "'Verdana'",
     "markdown-preview-enhanced.previewTheme": "atom-dark.css",
     "editor.fontFamily": "'Courier New'",
     "workbench.secondarySideBar.defaultVisibility": "hidden",
     "workbench.statusBar.visible": false,
     "workbench.startupEditor": "none",
-    "debug.terminal.clearBeforeReusing": true,
-    "editor.stickyScroll.enabled": false,
+    "chat.editor.fontSize": 9,
+    "chat.editor.fontFamily": "'Courier New'",
+    "github.copilot.enable": {
+      "*": false,
+      "plaintext": false,
+      "markdown": false,
+      "scminput": false
+    },
+    "workbench.iconTheme": "material-icon-theme",
     "terminal.integrated.stickyScroll.enabled": false,
-    "workbench.tree.enableStickyScroll": false,
-    "editor.stickyScroll.scrollWithEditor": false
-    
+    "breadcrumbs.enabled": false,
+    "terminal.integrated.enableMultiLinePasteWarning": "never"
 }
-
 
