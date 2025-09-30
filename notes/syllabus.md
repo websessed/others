@@ -9,7 +9,7 @@
 
 ## Media & Graphics
 - `<picture>` & `srcset`  
-- Video / audio with captions & controls  
+- `<video>` and `<audio>` with captions & controls  
 - `<canvas>` & `<svg>`  
 
 ## Forms
@@ -112,9 +112,7 @@
 ## DOM & Events
 - DOM selection & manipulation  
 - Event delegation, bubbling, capturing  
-- `IntersectionObserver`  
-- `MutationObserver`  
-- `ResizeObserver`  
+- `IntersectionObserver`, `MutationObserver`, `ResizeObserver`  
 - Events → pointer, touch, keyboard  
 - Native drag & drop API  
 
@@ -135,3 +133,4 @@
 - Lazy loading components  
 - Tree-shaking, code splitting  
 - Optimizing animation for 60fps  
+
