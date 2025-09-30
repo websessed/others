@@ -1,8 +1,7 @@
 
 #### **Folders**
 - **cheats** — cheat sheets for git and bash_
-- **config** — my vscode <mark style="background: #000; color: #fff; font-family: 'courier new';">
-settings.json </mark> & custom css script
+- **config** — my vscode `settings.json` & `custom.css` script
 - **demos_** — tiny test projects I built along the way
 - **dp** — design patterns notebook
 - **dsa** — data structures & algorithm reference
