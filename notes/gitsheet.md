@@ -1,7 +1,7 @@
 
 # Git Cheat Sheet: Beginner → Pro
 
----
+#
 
 ## 1. Setup & Config
 
@@ -11,7 +11,7 @@ git config --global user.email "you@email.com"
 git config --list
 ```
 
----
+#
 
 ## 2. Repositories
 
@@ -23,7 +23,7 @@ git remote set-url origin git@github.com/user/new-repo.git
 git remote -v
 ```
 
----
+#
 
 ## 3. Staging & Committing
 
@@ -36,7 +36,7 @@ git commit --amend -m "new message"
 git reset --soft HEAD~1
 ```
 
----
+#
 
 ## 4. Pushing & Pulling
 
@@ -46,7 +46,7 @@ git push
 git push origin branch-name --force
 ```
 
----
+#
 
 ## 5. Branching
 
@@ -59,7 +59,7 @@ git branch -d feature-x
 git push origin --delete feature-x
 ```
 
----
+#
 
 ## 6. Undo & Stash
 
@@ -71,7 +71,7 @@ git stash list
 git stash pop
 ```
 
----
+#
 
 ## 7. Viewing Changes & History
 
@@ -85,7 +85,7 @@ git diff --name-only HEAD~1
 git blame file.ext
 ```
 
----
+#
 
 ## 8. Multi-Repo & Automation
 
@@ -107,7 +107,7 @@ for repo in $(gh repo list USERNAME --limit 100 --json name -q '.[].name'); do
 done
 ```
 
----
+#
 
 ## 9. Advanced Git
 
@@ -125,7 +125,7 @@ git tag -a v1.0 -m "msg"
 git push origin v1.0
 ```
 
----
+#
 
 ## 10. Submodules & Large Files
 
@@ -136,7 +136,7 @@ git lfs track "*.psd"
 git add .gitattributes
 ```
 
----
+#
 
 ## 11. Hooks & Automation
 
@@ -146,7 +146,7 @@ git add .gitattributes
 eslint . # run linter before commit
 ```
 
----
+#
 
 ## 12. Best Practices
 
