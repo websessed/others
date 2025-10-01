@@ -1,6 +1,6 @@
 {
     "editor.minimap.enabled": false,
-    "editor.fontSize": 11,
+    "editor.fontSize": 9.7,
     "window.zoomLevel": 1,
     "files.autoSave": "afterDelay",
     "zenMode.fullScreen": false,
@@ -38,7 +38,6 @@
     "extensions.experimental.affinity": {
       "asvetliakov.vscode-neovim": 1
     },
-    "workbench.colorTheme": "Best Themes - One Monokai Darker",
     "editor.overtypeCursorStyle": "line",
     "editor.cursorBlinking": "smooth",
     "markdown.preview.fontSize": 9,
@@ -51,6 +50,6 @@
     "terminal.integrated.stickyScroll.enabled": false,
     "breadcrumbs.enabled": false,
     "terminal.integrated.enableMultiLinePasteWarning": "never",
-    "editor.suggest.showFolders": false
+    "workbench.colorTheme": "Best Themes - One Dark Pro"
 }
 

@@ -38,3 +38,14 @@
     font-size: 10px !important;
 }
 
+.monaco-workbench .window-title,
+.monaco-workbench .part.sidebar,
+.monaco-workbench .part.panel .title, 
+.monaco-workbench .quick-input-widget,
+.monaco-workbench .quick-input-widget .quick-input-list .monaco-list-row, 
+.monaco-workbench .quick-input-widget .quick-input-box input
+{
+    font-family: "Montserrat", sans-serif !important; 
+    font-size: 11px !important;
+}
+
