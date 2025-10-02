@@ -1,6 +1,7 @@
 {
     "editor.minimap.enabled": false,
-    "editor.fontSize": 9.7,
+    "editor.fontSize": 10.5,
+    "editor.fontWeight": "100",
     "window.zoomLevel": 1,
     "files.autoSave": "afterDelay",
     "zenMode.fullScreen": false,
@@ -29,7 +30,6 @@
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
     "terminal.integrated.fontLigatures.enabled": true,
-    "editor.fontWeight": "1",
     "vscode_custom_css.imports": [
       "file:///C:/Users/Maxwell%20Easter/OneDrive/Desktop/Bin/Github/others/config/custom.css"
     ],
@@ -42,7 +42,7 @@
     "editor.cursorBlinking": "smooth",
     "markdown.preview.fontSize": 9,
     "markdown-preview-enhanced.previewTheme": "atom-dark.css",
-    "editor.fontFamily": "'Courier New'",
+    "editor.fontFamily": "'Nimbus Mono'",
     "workbench.secondarySideBar.defaultVisibility": "hidden",
     "workbench.statusBar.visible": false,
     "workbench.startupEditor": "none",
