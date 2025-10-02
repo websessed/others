@@ -5,6 +5,7 @@
 - **demos_** — tiny test projects I built along the way
 - **dp** — design patterns notebook
 - **dsa** — data structures & algorithm reference
+- **notes** — basically just random notes 
 - **site-clones** — clones of my favorite Awwwards websites
 - **stylus** — stylus scripts I use accross multiple websites
 
@@ -45,4 +46,5 @@
 - Hashing
 - CSP
 - Auth
+
 - Rate limiting
