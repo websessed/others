@@ -1,12 +1,10 @@
 
 #### **Folders**
-- **cheats** — cheat sheets for git and bash_
+- **cheats** — cheat sheets for git and bash
 - **config** — my vscode `settings.json` & `custom.css` script
-- **demos_** — tiny test projects I built along the way
-- **dp** — design patterns notebook
+- **dp** — a collection of common design patterns 
 - **dsa** — data structures & algorithm reference
 - **notes** — basically just random notes 
-- **site-clones** — clones of my favorite Awwwards websites
 - **stylus** — stylus scripts I use accross multiple websites
 
 
@@ -46,5 +44,4 @@
 - Hashing
 - CSP
 - Auth
-
 - Rate limiting
