@@ -1,4 +1,0 @@
-
-/* 
-    src →  https://emelecollab.com/
-*/
