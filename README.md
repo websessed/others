@@ -10,6 +10,7 @@
 
 #
 
+### **Probable Topics in DSA/DP & Notes:**
 
 ##### **DSA**
 - Arrays/strings
@@ -18,7 +19,8 @@
 - Trees, binary search
 - Merge/quick sort
 - Heaps/priority queues
-- Graphs (DFS/BFS), queues
+- Graphs (DFS/BFS)
+- Time & space complexity 
 
 ##### **Design Patterns**
 - Observer
@@ -27,10 +29,14 @@
 - Adapter
 - State
 - Decorator
+- Module 
+- Component composition 
 
 ##### **Performance Optimization**
+- DOM optimization 
 - Input validation & sanitization
 - Debouncing & throttling
+- asset compression & preloading 
 - Memoization
 - Caching
 
