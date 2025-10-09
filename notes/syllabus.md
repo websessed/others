@@ -29,6 +29,12 @@
 - `<details>` & `<summary>`  
 - `<template>` & `<slot>`  
 
+## Forms & Inputs
+- native validation 
+- input types & attributes 
+- labels & accessibility links 
+- `<fieldset>` & `<legend>`
+
 ## Performance & Optimization
 - lazy-loading 
 - `defer` / `async` for scripts   
@@ -65,13 +71,16 @@
 - prefers-reduced-motion 
 
 ## Interaction 
-- psuedo-classes (`:hover`, `:focus`, `:is`, `:has`)
-- psuedo-elements 
+- pseudo-classes (`:hover`, `:focus`, `:is`, `:has`)
+- pseudo-elements 
 
 ## Others 
 - nesting
 - scroll snapping, view transitions API 
 - BEM architecture 
+- contain
+- content-visibility
+- will-change
 
 #
 
@@ -113,6 +122,47 @@
 - throttle 
 - RAF loops 
 - code-splitting & tree-shaking 
+
+
+#
+
+# Figma Topics
+
+## Core 
+- frames & groups
+- auto-layout
+- constraints
+- layout grids 
+
+## Components & Systems 
+- components
+- variants 
+- component properties
+- libraries 
+- variables (design tokens)
+
+## Styling 
+- color & text styles 
+- effects
+- blending modes
+- image fills 
+
+## Vectors & shape tools 
+- vector networks 
+- boolean groups 
+- masks 
+
+## Prototyping & motion  
+- prototyping connections  
+- smart animate
+- micro-interactions
+- page transitions 
+- interactive components 
+
+## Collaboration & Output 
+- version history 
+- inspect panel 
+- export settings 
 
 
 
